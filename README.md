@@ -20,11 +20,11 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - Solution URL: [GitHub URL](https://github.com/elameendaiyabu/Result-Summary-Site.git)
 - Live Site URL: [Netlify Site](https://result-summary-site1.netlify.app/)
 
-### Screenshot
+<!-- ### Screenshot
 
 <!-- ![Screenshot of Finished Product](./images/result-summary-screenshot.png) -->
 
-![screenshot](result-summary-screenshot.png)
+![screenshot](result-summary-screenshot.png) -->
 
 ## My process
 
