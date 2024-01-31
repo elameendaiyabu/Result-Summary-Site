@@ -22,7 +22,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Screenshot
 
-![Screenshot of Finished Product](./images/result-summary-screenshot.png)
+![screenshot](./images/result-summary-screenshot.png)
 
 ## My process
 
